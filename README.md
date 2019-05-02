@@ -1,7 +1,7 @@
 # Exploring-Weather-Trends
 
-A complete Data Analysis Project from Accessing data with SQL to using Panda, Matplotlib and Seaborn to analyze and visualize data.
+This Data Analysis Project extracted data with SQL and loaded into Jupyter notebook.
 
-Highlight of the project is to use pandas to calculate moving average for time series data.
+Highlight of the project is to use pandas to calculate moving average for time series data and visualize the weather trend over time 
 
 This project is created by Lu Tang
